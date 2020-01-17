@@ -1,0 +1,13 @@
+{
+    "package": "com.whs.nearme.gamecenter",
+    "name": "OPPO小游戏",
+    "versionName": "1.2.5",
+    "versionCode": "25",
+    "minPlatformVersion": "1040",
+    "icon": "icon.png",
+    "orientation": "portrait",
+    "type": "game",
+    "config": {
+        "logLevel": "off"
+    }
+}

@@ -1,0 +1,1 @@
+npm run build & adb push D:/SVN/frontend/sdk/project/HardCore/release/vivogame/dist/com.tjyr.hzby.vivominigame.rpk  /sdcard/_rpk/com.tjyr.hzby.vivominigame.rpk  & exit

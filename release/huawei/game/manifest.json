@@ -1,0 +1,17 @@
+{
+    "package": "com.whs.huawei",
+    "name": "华为小游戏",
+    "appType": "fastgame",
+    "icon": "icon.png",
+    "versionName": "1.2.5",
+    "versionCode": 10,
+    "minPlatformVersion": 1035,
+    "config": {
+        "logLevel": "log"
+    },
+    "router": {},
+    "display": {
+        "orientation": "portrait",
+        "fullScreen": true
+    }
+}
